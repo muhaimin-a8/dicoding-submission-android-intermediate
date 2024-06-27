@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Story App</string>
+    <string name="title_login_page">Selamat Datang</string>
+    <string name="message_login_page">silahkan login dulu</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="register">Daftar</string>
+    <string name="dont_have_account">Tidak punya akun?</string>
+    <string name="title_signup_page">Register Now</string>
+    <string name="name">Name</string>
+    <string name="password_error_message">Password tidak boleh kurang dari 8 karakter</string>
+    <string name="have_account">Sudah punya akun?</string>
+    <string name="no_story_message">no story, try create one</string>
+    <string name="add_new_story">Add New Story</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="upload">Upload</string>
+    <string name="description">Description</string>
+    <string name="logout">Logout</string>
+</resources>
